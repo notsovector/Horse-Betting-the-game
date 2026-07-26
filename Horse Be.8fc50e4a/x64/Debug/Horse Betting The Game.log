@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\malbo\OneDrive\Pulpit\Horse Betting The Game\main.cpp(132,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Horse Betting The Game.vcxproj -> C:\Users\malbo\OneDrive\Pulpit\Horse Betting The Game\x64\Debug\Horse Betting The Game.exe

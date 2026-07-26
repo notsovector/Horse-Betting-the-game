@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\malbo\OneDrive\Pulpit\Horse Betting The Game\main.cpp(199,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Trwa generowanie kodu
+  2 of 580 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Horse Betting The Game.vcxproj -> C:\Users\malbo\OneDrive\Pulpit\Horse Betting The Game\x64\Release\Horse Betting The Game.exe
